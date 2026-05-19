@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+
+data/
+images/
+
+*.pt
+*.pth
+
+*.ipynb
+
+.ipynb_checkpoints/
+
+results.csv
+sample_predictions.csv
+ground_truth.csv
