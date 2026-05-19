@@ -10,11 +10,9 @@ The application provides users with the ability to upload their skin image and g
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed Streamlit link here
+🔗 Deployed Streamlit website link 
+https://dermai-skin-health-analyzer.streamlit.app/
 
-Example:
-
-https://dermai.streamlit.app
 
 ---
 
