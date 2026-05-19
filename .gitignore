@@ -6,7 +6,7 @@ data/
 images/
 
 *.pt
-*.pth
+!models/save_models_here/model_Resnet50.pt
 
 *.ipynb
 
